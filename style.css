@@ -1,0 +1,49 @@
+/************************/
+/* 	    COULEURS        */
+/************************/
+
+.primary-bg {
+	background-color: #00357A;
+}
+
+.text-primary {
+  color: #F1B464;	
+}
+
+.secondary-bg {
+	background-color: #F1B464;
+}
+
+.text-secondary {
+  color: #00357A;	
+}
+
+.dark {
+  color: #27303B
+}
+
+.medium-light {
+  color: #E5E6E4
+}
+
+.light {
+  color: #EBFDFF
+}
+
+.warning {
+  color: #F0B943
+}
+
+.danger {
+  color: #DE342B
+}
+
+.success {
+  color: #53A262
+}
+
+.info {
+  color: #ADF5FF
+}
+
+
