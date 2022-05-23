@@ -12,7 +12,7 @@ Tu dois imaginer le kit UI qui va avec le pitch de ta start-up révolutionnaire 
 
 Commence à imaginer les quelques pages web importantes, essaie de comparer avec les sites du même genre, et tu devrais avoir un univers qui s'en dégage.
 
-___________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________
 
 1) Les éléments à designer et concevoir :
 Pour ce projet, nous allons te demander de créer un répo d'une application web statique, avec un fichier index.html qui contiendra tout ton kit UI. 
@@ -50,3 +50,23 @@ danger dans les tons rouges
 success dans les tons vertes
 info dans les tons bleues
 Garde-les dans un coin de papier, on les affichera au moment des boutons.
+
+_________________________________________________________________________________________________________________________
+
+1.b) La typographie :
+
+Tu devras choisir deux polices pour ton kit :
+
+Une police pour les headings (police de titre)
+Une police pour le texte normal
+Puis tu devras designer la typographie des éléments suivants :
+
+de <h1> à <h6>
+les <p>
+le tag <lead>, qui correspond à un paragraphe à qui tu veux donner plus d'importance
+les <blockquote>, pour les citations
+les <ul>, <ol>, et <li> pour les listes
+
+
+_________________________________________________________________________________________________________________________
+

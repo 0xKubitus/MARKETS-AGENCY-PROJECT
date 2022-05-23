@@ -1,0 +1,95 @@
+/************************/
+/* 	    COULEURS        */
+/************************/
+
+.primary-bg {
+	background-color: #00357A;
+}
+
+.text-primary {
+  color: #F1B464;	
+}
+
+.secondary-bg {
+	background-color: #F1B464;
+}
+
+.text-secondary {
+  color: #00357A;	
+}
+
+.dark {
+  color: #27303B
+}
+
+.medium-light {
+  color: #E5E6E4
+}
+
+.light {
+  color: #EBFDFF
+}
+
+.warning {
+  color: #F0B943
+}
+
+.danger {
+  color: #DE342B
+}
+
+.success {
+  color: #53A262
+}
+
+.info {
+  color: #ADF5FF
+}
+
+/************************/
+/* 	    TYPOGRAPHIE     */
+/************************/
+
+.text-heading {
+  font-family: 'Kanit', sans-serif;
+}
+
+.text-normal-h1 {
+  
+}
+
+.text-normal-h2 {
+  
+}
+
+.text-normal-h3 {
+  
+}
+
+.text-normal-h4 {
+  
+}
+
+.text-normal-h5 {
+  
+}
+
+.text-normal-h6 {
+  
+}
+
+.text-normal-p {
+  
+}
+
+.text-normal-blockquote {
+  font-family: Freight Sans, Freight Text, Freight Display, Georgia;
+}
+
+.text-normal-list-title { /* pour les titres des <ul> et des <ol> */
+  
+}
+
+.text-normal-list-text { /* pour le texte (<li>) des <ul> et des <ol> */
+  
+}
