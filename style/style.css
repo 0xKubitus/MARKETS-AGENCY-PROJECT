@@ -50,7 +50,8 @@
 /* 	    TYPOGRAPHIE     */
 /************************/
 
-@font-face { /* Définition d'une nouvelle police nommée nimbus monoregular oblique */
+/* Définition d'une nouvelle police nommée nimbus monoregular oblique */
+@font-face { 
   font-family: 'nimbus_monoregular_oblique';
   src: url('nimbusmono-oblique-webfont.eot');
   src: url('nimbusmono-oblique-webfont.eot?#iefix') format('embedded-opentype'),
@@ -62,21 +63,38 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'aileronlight';
+  src: url('Aileron-Light-webfont.eot');
+  src: url('Aileron-Light-webfont.eot?#iefix') format('embedded-opentype'),
+       url('Aileron-Light-webfont.woff2') format('woff2'),
+       url('Aileron-Light-webfont.woff') format('woff'),
+       url('Aileron-Light-webfont.ttf') format('truetype'),
+       url('Aileron-Light-webfont.svg#aileronlight') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
 
 
-.text-heading { /* Utilisation de la police qu'on vient de définir sur les titres */
+
+/* Utilisation de la police qu'on vient de définir sur les titres */
+.text-heading { 
   font-family: 'Kanit', sans-serif;
+}
+
+.text-normal { 
+  font-family: 'aileronlight', sans-serif;
 }
 
 .text-normal-h1 {
   
 }
 
-.text-normal-h2 {
+.heading-h2 {
   color: red
 }
 
-.text-normal-h3 {
+.heading-h3 {
   color: green;
 }
 
