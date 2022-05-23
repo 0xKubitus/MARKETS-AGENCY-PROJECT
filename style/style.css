@@ -42,8 +42,16 @@
   color: #F0B943
 }
 
+.warning-bg { 
+  background-color: #F0B943;
+}
+
 .danger {
   color: #DE342B
+}
+
+.danger-bg {
+  background-color: #DE342B
 }
 
 .success {
@@ -160,6 +168,7 @@
 .buttons-group {
   display: flex;
   justify-content: center;
+  margin: 10px;
 }
 
 .btn { 
@@ -169,4 +178,6 @@
   height: 30px;
   border: 1px solid;
   border-radius: 7px;
+  font-family: 'Kanit', sans-serif;
+  font-weight: bold;
 }
