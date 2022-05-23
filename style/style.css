@@ -125,3 +125,21 @@
 .text-normal-list-text { /* pour le texte (<li>) des <ul> et des <ol> */
   
 }
+
+
+
+.navbar { 
+  height: 76px;
+}
+
+.titre1 {
+  height: 46px;
+  margin-block-end: 0px;
+  margin-block-start: 0px;
+}
+
+.titre2 {
+  height: 24px;
+  margin-block-end: 0px;
+  margin-block-start: 0px;
+}
